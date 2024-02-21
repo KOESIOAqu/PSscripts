@@ -1,1 +1,8 @@
+Update 1.3.0
+*UPDATED*
+-Passage des checkBox en radioBox, permettant de selectionner un seul choix par catégorie
 
+*ADDED*
+-Ajout d'un champ pour modifier le nom du poste
+-Ajout d'une catégorie "Software Consturcteur", pour l'installation des Assistant Consturcteur (Uniquement Fujitsu et HP)
+-Ajout d'un bouton pour réinitialiser les choix dans les 3 catégories
