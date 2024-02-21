@@ -1,1 +1,12 @@
-
+Update 1.2.0
+*ADDED*
+-Installation de Foxit Reader
+-Installation du VPN Watchguard si coché (Il était uniquement téléchargé en v1.1.0)
+-Installation du VPN Viscosity si coché
+-Installation du VPN OpenVPN si coché
+-Installation de la version d'office sélectionné depuis le NAS Atelier (365 32 & 64bits, Home&Business 2021 32 & 64bits, LTSC-2021 32 et 64bits)
+ 
+*REMOVED*
+-Désactivation de l'uac
+-Affichage des fichiers cachés
+-Installation d'Acrobat Reader (Le fichier d'installation est toujours téléchargé dans le dossier #KOESIO)
